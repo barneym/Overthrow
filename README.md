@@ -1,6 +1,10 @@
 # Important Notice
 This fork is strictly intended for personal experimentation and learning.  This is not a precursor to any formal development or project fork.  Do not use, and if you do it's at your own risk.
 
+**Links:**
+* [Nifnat/Overthrow](https://github.com/Nifnat/Overthrow) - Source of this fork; newer "Overthrow Plus" mod from Nifnat
+* [ArmaOverthrow/Overthrow](https://github.com/Nifnat/Overthrow) - Original Overthrow from [ARMAzac](https://github.com/armazac)
+
 # Overthrow Plus
 Overthrow Plus is a rework of the original Overthrow mission created by armazac @ https://github.com/ArmaOverthrow/Overthrow
 
