@@ -1,3 +1,5 @@
+# Important Notice
+This fork is strictly intended for personal experimentation and learning.  This is not a precursor to any formal development or project fork.  Do not use, and if you do it's at your own risk.
 
 # Overthrow Plus
 Overthrow Plus is a rework of the original Overthrow mission created by armazac @ https://github.com/ArmaOverthrow/Overthrow
